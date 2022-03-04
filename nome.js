@@ -1,9 +1,9 @@
-//console.log('Luiz Flavio Pereira')
-var nome = 'Luiz Flavio ';
-var sobrenome = 'Pereira ';
-var idade = 34;
-var nomecompleto;
+//Exibir meu nome
+//console.log('Kauan');
+var nome = 'kauan ';
+var sobrenome = 'Lima ';
+//var nomecompleto;
+//var idade = 24;
 
-//nomecompleto = nome + sobrenome + idade;
-//console.log(nomecompleto);
-console.log("Meu nome é: " + nome + sobrenome + idade + " " + "anos");
+//nomecompleto = nome + sobrenome;
+console.log( "Meu nome é: "+" "+ nome + " "+sobrenome );
